@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function () {
       end: '+=400%', //시작점에서 400%까지 스크롤한 후 종료
       pin: true,
       scrub: 3, //1~3 3이 제일 부드러움
-      markers: true,
+      markers: false,
     },
   });
 
